@@ -1,2 +1,6 @@
 Este es un archivo de prueba "Holaaa", "no debia responder"
+<<<<<<< HEAD
 "Pero respondio otra cosa".
+=======
+"Pero respondio"
+>>>>>>> e92beb18592365510e2373c1993c99d8bc1c9c09
